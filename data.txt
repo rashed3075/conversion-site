@@ -1,1 +1,0 @@
-{"converterType":"ft to inch","unit":"1","rate":"12"}

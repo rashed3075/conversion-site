@@ -1,0 +1,1 @@
+[{"converType":"ft to inch","unit":"1","rate":"12"},{"converType":"Hz to khz","unit":"1","rate":"1000"},{"converType":"ft to cm","unit":"1","rate":"30.48"},{"converType":"meter to cm","unit":"1","rate":"100"},{"converType":"meter to milimeter","unit":"1","rate":"1000"}]
